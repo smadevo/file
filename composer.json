@@ -1,0 +1,17 @@
+{
+    "name":        "smadevo/file",
+    "description": "File extension for smadevo/core components.",
+    "version":     "1.0.0",
+    "require":
+    {
+        "php":          "^7.1",
+        "smadevo/core": "^1.0"
+    },
+    "autoload":
+    {
+        "classmap":
+        [
+            "src"
+        ]
+    }
+}
